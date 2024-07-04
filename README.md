@@ -1,4 +1,4 @@
-# TruAD Dashboard
+# TruAD Offer Letter Generator
 
 This is the frontend for the Offer Letter generation tool.
 
