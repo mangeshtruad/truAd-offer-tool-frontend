@@ -30,7 +30,7 @@ function App() {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      const response = await fetch('https://offer-tool-backend.onrender.com/', {
+      const response = await fetch('https://truad-offer-tool-backend.onrender.com/', {
         method: "POST",
         body: JSON.stringify({ formData }),
         headers: {
