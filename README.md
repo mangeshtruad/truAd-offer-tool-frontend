@@ -31,4 +31,4 @@ Clicking on the submit button after filling in the all the candidate and hiring 
 
 ## Deployment
 
-This app has been deployed on [Render](https://truad-offer-tool-frontend.onrender.com/))
+This app has been deployed on [Render](https://truad-offer-tool-frontend.onrender.com/)
